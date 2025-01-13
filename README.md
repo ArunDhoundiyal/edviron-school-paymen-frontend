@@ -3,8 +3,8 @@ This project basciall cover the transaction related informatin based school paym
 This project we are display transaction data and performe CRUD operation by consuming backend deployed APIs through Database.
 We are display transaction data in Table form.
 ## Features 
-** Searching and filtering based on school id, custom order id and based on start date and end date
-** Status check by using drop down "Pending", "Success", "Failure"
+* Searching and filtering based on school id, custom order id and based on start date and end date
+* Status check by using drop down "Pending", "Success", "Failure"
 ## APIs
 POST https://edviron-school-payment-backend-2.onrender.com/registration
 POST https://edviron-school-payment-backend-2.onrender.com/login
